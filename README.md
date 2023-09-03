@@ -5,6 +5,8 @@
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1408&repo=Intro-to-Artificial-Intelligence)
 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1408&repo=CCS-221)
+
 
 
 - 🔭 I’m currently working on [Introduction to Python Assignment](https://github.com/Mauricio1408/CCS221-Midterm-Output)
