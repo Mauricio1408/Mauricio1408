@@ -1,10 +1,10 @@
 # **Hi _stalker_** 👋
 
-### Current Works
+### Currently working on...
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1408&repo=Intro-to-Artificial-Intelligence)  
-   
-### Recent Works!
+
+### Recent works 🥳
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1408&repo=CCS-221)     ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1408&repo=CC-203)
 
