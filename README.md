@@ -24,11 +24,15 @@
 - Python
 - Java
 - Javascript
+- HTML
+- CSS
+
+### :service_dog: Pet
+![Image of my Dog at home <3]("D:\Win10\Downloads\MicrosoftEdgeDropFiles\Default\Bingo Pic.jpg")
 
 
 
 
-- 🔭 I’m currently working on [Introduction to Python Assignment](https://github.com/Mauricio1408/CCS221-Midterm-Output)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
