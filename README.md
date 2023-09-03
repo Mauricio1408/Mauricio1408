@@ -3,7 +3,7 @@
 
 **Mauricio1408/Mauricio1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/Mauricio1408/&repo=https://github.com/Mauricio1408/Mauricio1408/blob/main/README.md)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/Mauricio1408/&repo=https://github.com/Mauricio1408/Mauricio1408/)
 
 
 
