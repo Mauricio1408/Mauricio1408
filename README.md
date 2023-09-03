@@ -3,7 +3,9 @@
 
 **Mauricio1408/Mauricio1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1408=Mauricio1408)
+
+
 
 - 🔭 I’m currently working on [Introduction to Python Assignment](https://github.com/Mauricio1408/CCS221-Midterm-Output)
 - 🌱 I’m currently learning ...
