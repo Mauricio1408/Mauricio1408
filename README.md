@@ -8,6 +8,11 @@
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1408&repo=CCS-221)
 
 
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1408&repo=CC-203)
+
+![counter](https://[YourEndpoint].m.pipedream.net)
+
+
 
 - 🔭 I’m currently working on [Introduction to Python Assignment](https://github.com/Mauricio1408/CCS221-Midterm-Output)
 - 🌱 I’m currently learning ...
