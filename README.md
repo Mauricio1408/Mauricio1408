@@ -28,7 +28,8 @@
 - CSS
 
 ### :service_dog: Pet
-![Image of my Dog at home <3]("D:\Win10\Downloads\MicrosoftEdgeDropFiles\Default\Bingo Pic.jpg")
+
+![Image of my Dog at home <3](https://github.com/Mauricio1408/Mauricio1408/blob/main/Bingo.md)
 
 
 
