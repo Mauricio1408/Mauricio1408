@@ -2,9 +2,7 @@
 
 ### Recent Works!
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1408&repo=Intro-to-Artificial-Intelligence)
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1408&repo=CCS-221)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1408&repo=Intro-to-Artificial-Intelligence)![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1408&repo=CCS-221)
 
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1408&repo=CC-203)
