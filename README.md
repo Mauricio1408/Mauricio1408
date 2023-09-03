@@ -1,18 +1,24 @@
-# **Hello there!** 👋__
+# **Hello there!** 👋
 
 
 
 ##### I am Mauricio Manuel F. Bergancia, a computer science student from West Visayas State University. I love staring unendlessly on laptop screens. **Don't be like me** ☠️
 
+
+
 ### Currently working on...
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1408&repo=Intro-to-Artificial-Intelligence)  
+
+
 
 ### Recent works 🥳
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1408&repo=CCS-221)     ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1408&repo=CC-203)
 
-### Programming Languages 🧑‍💻
+
+
+### 🧑‍💻 Coding
 - C++
 - C
 - Python
