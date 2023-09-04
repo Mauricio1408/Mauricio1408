@@ -29,7 +29,7 @@
 
 ### :service_dog: Pet
 
-![Image of my dog at home 3]("D:\Win10\Documents\GitHub\Mauricio1408\Bingo's pic.jpg")
+![Image of my dog at home 3](<Bingo's pic.jpg>)
 
 
 
