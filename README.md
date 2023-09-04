@@ -35,5 +35,11 @@ ________________________________________________________________________________
 
 ![Image of my dog at home 3](<Bingo's pic.jpg>)
 
+___________________________________________________________________________________________
 
+### Reach me @:
+
+Facebook: [Mauricio Manuel Bergancia](https://web.facebook.com/mau.bergancia.7/)
+Instagram: [beers_gunz_cia](https://web.facebook.com/mau.bergancia.7/)
+Twitter: [merry_maurt](https://web.facebook.com/mau.bergancia.7/)
 
