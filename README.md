@@ -29,7 +29,7 @@
 
 ### :service_dog: Pet
 
-![Image of my Dog at home <3](https://github.com/Mauricio1408/Mauricio1408/blob/main/Bingo%20Pic.jpg)
+![Image of my Dog at home <3](Bingo's pic.jpg)
 
 
 
