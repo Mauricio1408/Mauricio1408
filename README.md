@@ -39,7 +39,10 @@ ________________________________________________________________________________
 
 ### Reach me @:
 
-Facebook: [Mauricio Manuel Bergancia](https://web.facebook.com/mau.bergancia.7/)
-Instagram: [beers_gunz_cia](https://web.facebook.com/mau.bergancia.7/)
-Twitter: [merry_maurt](https://web.facebook.com/mau.bergancia.7/)
+Facebook: [Mauricio Manuel Bergancia](https://web.facebook.com/mau.bergancia.7/)__
+Instagram: [beers_gunz_cia](https://web.facebook.com/mau.bergancia.7/)__
+Twitter: [merry_maurt](https://web.facebook.com/mau.bergancia.7/)__
+
+
+
 
