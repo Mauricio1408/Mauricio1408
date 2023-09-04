@@ -2,7 +2,7 @@
 
 
 
-##### I am Mauricio Manuel F. Bergancia, a computer science student from West Visayas State University. I love staring unendlessly on laptop screens. **Don't be like me** ☠️
+##### I am Mauricio Manuel F. Bergancia, a computer science student from West Visayas State University. I love staring unendlessly on any digital screens. **Don't be like me** ☠️
 ________________________________________________________________________________________
 
 
