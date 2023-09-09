@@ -8,9 +8,7 @@ ________________________________________________________________________________
 
 ### Currently working on...
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1408&repo=Intro-to-Artificial-Intelligence)  
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1408&repo=Object-Oriented-Programming)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1408&repo=Intro-to-Artificial-Intelligence)   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mauricio1408&repo=Object-Oriented-Programming)
 ____________________________________________________________________________________________
 
 
