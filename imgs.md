@@ -1,1 +1,0 @@
-![Alt text](<Bingo's pic.jpg>)
